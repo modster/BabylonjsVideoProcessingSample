@@ -1,7 +1,3 @@
-/**
- * WIP: 
- */
-
 import { ThinEngine } from "@babylonjs/core/Engines/thinEngine";
 import { Constants } from "@babylonjs/core/Engines/constants";
 import { HtmlElementTexture } from "@babylonjs/core/Materials/Textures/htmlElementTexture";
